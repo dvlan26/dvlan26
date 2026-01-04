@@ -23,12 +23,46 @@
 
 - ⚡ Fun fact **I love Marathon**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dvlan26&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvlan26&theme=dark)
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
+<div style="text-align: center;">
+  <img src ="https://githubreadme-a6hp.vercel.app/api?username=dvlan26&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
+  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=dvlan26&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
+  <img src="https://streak-stats.vercel.app/?user=dvlan26&theme=gruvbox&hide_border=true" height="124" alt="snorlark" />
+</div>
+
+###
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+###
+
+  <img src="https://github-trophies.vercel.app/?username=dvlan26&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
+  
+###
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-dark.svg" />
+</picture>
 
 ---
 
-<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dvlan26's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dvlan26&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+---
+---
+
+<!-- <p align="center">
 	<table>
 		<tr>
 		<td align="center">
@@ -44,7 +78,7 @@
 
 <h3 align="left"></h3>
 <p align="left">
-</p>
+</p> -->
 
 <!-- <p align="center">
 		    <picture>
@@ -183,31 +217,7 @@
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
 
-###
-
-<div style="text-align: center;">
-  <img src ="https://githubreadme-a6hp.vercel.app/api?username=dvlan26&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
-  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=dvlan26&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
-  <img src="https://streak-stats.vercel.app/?user=dvlan26&theme=gruvbox&hide_border=true" height="124" alt="snorlark" />
-</div>
-
-###
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-###
-
-  <img src="https://github-trophies.vercel.app/?username=dvlan26&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
-  
-###
-
----
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="dvlan26's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dvlan26&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
----
 
 
 ```
@@ -236,17 +246,7 @@
 ---
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-dark.svg" />
-</picture>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
